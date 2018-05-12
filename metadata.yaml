@@ -1,0 +1,28 @@
+_repo: The-Diatomaceae-of-Philadelphia-and-Vicinity_44569
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44569-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Boyer, Charles S. (Charles Sumner)
+    alias: Boyer, Charles Sumner
+    birthdate: 1856
+    deathdate: 1928
+    gutenberg_agent_id: '42820'
+    url: http://www.gutenberg.org/2009/agents/42820
+description: ''
+gutenberg_issued: '2014-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44569'
+  lccn: '16015243'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QK'
+- !lcsh 'Diatoms -- Pennsylvania -- Philadelphia'
+title: The Diatomaceæ of Philadelphia and Vicinity
+url: http://www.gutenberg.org/ebooks/44569
